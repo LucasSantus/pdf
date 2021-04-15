@@ -82,14 +82,13 @@ http://127.0.0.1:8000/
 **Acessando o Admin**
 
 Adicione 'admin/' há URL:
-
 ```
 http://127.0.0.1:8000/admin/
 ```
 
 **Gerando o PDF**
 
-localizado no admin do django crie um novo relatório.
+Localizado no 'admin/' do django adicione um novo relatório, ao selecionar o relatório escolhido, na parte superior direita da tela terá um botão chamado 'Gerar PDF', clicando no mesmo é possível baixar o arquivo gerado.
 
 --------------------------------------------------------------------------------------
 
